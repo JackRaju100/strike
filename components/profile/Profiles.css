@@ -1,0 +1,19 @@
+.profiles-page {
+  background: greenyellow;
+}
+
+.profile-card {
+  background: #e5ffbe;
+  border-radius: 16px;
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-bottom: 25px;
+  padding: 10px;
+}
+
+.profile-stats {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
